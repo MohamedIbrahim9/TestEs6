@@ -58,3 +58,4 @@ const perosn={
 //you can use object. freeze to stop from updating that object's proprties 
 const wes = Object.freeze(perosn);
 
+    
